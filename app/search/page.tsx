@@ -10,7 +10,7 @@ interface SearchProps {
 }
 
 export default async function Search({ searchParams }: SearchProps) {
-  const title = searchParams?.title ?? ""
+  const title = searchParams?.title || ""
   const songs = await getSongsByTitle(title)
 
   return (
