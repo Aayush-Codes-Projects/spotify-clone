@@ -16,5 +16,4 @@ Live demo 👉 [https://19-spotify-clone.vercel.app/](https://19-spotify-clone.v
 **Option 2: Use Command Line**
 
 ```bash
-git clone https://github.com/nicitaacom/19_spotify-clone
-cd 19_spotify-clone
+git clone https://github.com/
